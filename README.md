@@ -1,1 +1,2 @@
-# ConTFound
+# 说明
+**ConTFound**下所有项目，全都是以基础巩固为主
